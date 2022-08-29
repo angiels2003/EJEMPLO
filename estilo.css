@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Gurmukhi:ital@0;1&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Tiro Gurmukhi', serif;
+    text-decoration: none;
+}
+main {
+    background-color: gainsboro;
+    padding: 40px 70px;
+    margin-top: 157px;
+}
+
+.main__setion a {
+    background-color: #0c343d;
+    display: block;
+    font-size: 23px;
+    color: white;
+    text-align: center;
+}
+
